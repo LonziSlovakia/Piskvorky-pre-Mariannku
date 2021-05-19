@@ -1,8 +1,11 @@
 ## Vitajte. Vytvoril som hru s názvom piškvorky pre Mariannku, ktorá je vlastne len elektrickou podobou pradávnej hry piškvorky.
 
+Táto hra funguej na rovnakom princípe ako piškovrky. Je avšak naprogramovaná a hraje sa cez MicroBit od spoločnosti Microsoft. Preto aj ovládanie je trochu náročnejšie, pretože sú na Microbite len 3 tlačidlá. No napriek tomu si myslím, že po 2-minútach skúšania, každému dôjde ako to funguje. Ako pomôcku tu mám aj návod na hranie tejto hry. Tak prajem veľa zábavy!
 
-
-> Otvoriť túto stránku na [https://lonzislovakia.github.io/pikvorky-pre-mariannku/](https://lonzislovakia.github.io/pikvorky-pre-mariannku/)
+## Návod na hranie:
+Návod na hranie: 
+Na hracom poli vidíte slabé červenés svetielko ktoré zobrazuje kde sa hrač nachadza. Stlačenim tlačidla A sa hrač posunie doprava o jedno poličko. Stlačenim tlačidla B sa hrač posunie o jedno poličku smerom dolu. Keď si hrač vyberie poličko, klikne na tlačidlo A+B ktore ostane svietiť v najjasnejšom jase a ide hrač dva ktory zopakuje rovnaky postup až na ten rozdiel že jeho poličko po stlačení tlačidla A+B bude svietiť menšim jasom ako poličko hráča jedna. Takto hra pokračuje v princípe piškovriek až do kým niektorí z hráčov nebude mať vo horizontálnom,vodorovnom alebo diagonálnom smere tri svoje LED svetielka za sebou. Na konci, keď nejaký hráč vyhrá, hra mu smaa napíše na LEDKY že VYHRAL HRAC CISLO a číslo hráča😄.
+Znie to zložito ale je to jednoduche keď si to vyskúšate😇.
 
 ## Použiť ako rozšírenie
 
@@ -32,3 +35,5 @@ Obnovenie tohto obrázka môže trvať niekoľko minút.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+> Otvoriť túto stránku na [https://lonzislovakia.github.io/pikvorky-pre-mariannku/](https://lonzislovakia.github.io/pikvorky-pre-mariannku/)
