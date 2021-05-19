@@ -4,7 +4,7 @@ Táto hra funguej na rovnakom princípe ako piškovrky. Je avšak naprogramovan�
 
 ## Návod na hranie:
 Návod na hranie: 
-Na hracom poli vidíte slabé červenés svetielko ktoré zobrazuje kde sa hrač nachadza. Stlačenim tlačidla A sa hrač posunie doprava o jedno poličko. Stlačenim tlačidla B sa hrač posunie o jedno poličku smerom dolu. Keď si hrač vyberie poličko, klikne na tlačidlo A+B ktore ostane svietiť v najjasnejšom jase a ide hrač dva ktory zopakuje rovnaky postup až na ten rozdiel že jeho poličko po stlačení tlačidla A+B bude svietiť menšim jasom ako poličko hráča jedna. Takto hra pokračuje v princípe piškovriek až do kým niektorí z hráčov nebude mať vo horizontálnom,vodorovnom alebo diagonálnom smere tri svoje LED svetielka za sebou. Na konci, keď nejaký hráč vyhrá, hra mu smaa napíše na LEDKY že VYHRAL HRAC CISLO a číslo hráča😄.
+Na hracom poli vidíte slabé červené svetielko ktoré zobrazuje kde sa hrač nachádza. Stlačením tlačidla A sa hrač posunie doprava o jedno poličko. Stlačením tlačidla B sa hrač posunie o jedno poličku smerom dolu. Keď si hrač vyberie poličko, klikne na tlačidlo A+B ktore ostane svietiť v najjasnejšom jase a ide hrač dva ktory zopakuje rovnaky postup až na ten rozdiel že jeho poličko po stlačení tlačidla A+B bude svietiť menšim jasom ako poličko hráča jedna. Takto hra pokračuje v princípe piškovriek až do kým niektorí z hráčov nebude mať vo horizontálnom,vodorovnom alebo diagonálnom smere tri svoje LED svetielka za sebou. Na konci, keď nejaký hráč vyhrá, hra mu smaa napíše na LEDKY že VYHRAL HRAC CISLO a číslo hráča😄.
 Znie to zložito ale je to jednoduche keď si to vyskúšate😇.
 
 ## Použiť ako rozšírenie
