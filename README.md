@@ -1,3 +1,6 @@
+## Vitajte. Vytvoril som hru s názvom piškvorky pre Mariannku, ktorá je vlastne len elektrickou podobou pradávnej hry piškvorky.
+
+
 
 > Otvoriť túto stránku na [https://lonzislovakia.github.io/pikvorky-pre-mariannku/](https://lonzislovakia.github.io/pikvorky-pre-mariannku/)
 
